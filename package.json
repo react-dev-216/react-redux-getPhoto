@@ -10,7 +10,7 @@
     "google-map-react": "^1.1.2",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "polished": "^2.3.3",
     "rc-slider": "^8.6.4",
     "react": "^16.4.1",
